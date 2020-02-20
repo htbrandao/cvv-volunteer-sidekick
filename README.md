@@ -13,5 +13,13 @@ ___
 [Learn more](https://www.cvv.org.br/conheca-mais/) about CVV.
 
 Life is all we have.
+___
+
+Special Thanks to:
+- `Alice Rios` (CRP - DF) and `Rodrigo Barros` (CRP - PE) for telling me about CVV telling me more about the subject;
+- `PhD. Gustavo Botelho` for encouraging me to move from Machine Learning to Deep Learning;
+- `Fabiana Lauxen` for helping me on NLP;
+- 
+-
 
 &#8718;
