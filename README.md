@@ -8,4 +8,8 @@ This work aims to cerate a artificial intelligence solution to aid those volunte
 
 Life is all we have.
 
+___
+
+For development and easy access reasons, the entirety of this work will be written in Brazilian Portuguese (PT-BR).
+
 &#8718;
