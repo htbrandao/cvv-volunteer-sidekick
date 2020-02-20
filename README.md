@@ -4,7 +4,7 @@
 
 People can [volunteer](https://www.cvv.org.br/voluntario/) to take a course and aid on suicidal incoming calls.
 
-This work aims to cerate a artificial intelligence solution to aid those volunteers during the calls and increase their success rate on suicide prevention.
+This work aims to cerate an artificial intelligence solution to aid those volunteers during calls and increase their success rate on suicide prevention.
 ___
 
 For development and easier access reasons, the entirety of this work will be written in Brazilian Portuguese (PT-BR).
