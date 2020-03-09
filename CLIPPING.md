@@ -8,17 +8,13 @@
 - [Our World in Data: Suicide](https://ourworldindata.org/suicide) dd/mm/2020
 - [Data Can Help You: How Technologies Fight Mental Health Issues](https://hackernoon.com/data-can-help-you-how-technologies-fight-mental-health-issues-373i36z4) 11/02/2020
 - [CrossCheck: Integrating self-report, behavioral sensing, and smartphone use to identify digital indicators of psychotic relapse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5593755/) 01/09/2017
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- - []() dd/mm/aaaa
-- 
+- [The Future of AI Will Be About Less Data, Not More](https://hbr.org/2019/01/the-future-of-ai-will-be-about-less-data-not-more) 14/01/2019
+- []() dd/mm/aaaa
+- []() dd/mm/aaaa
+- []() dd/mm/aaaa
+- []() dd/mm/aaaa
+- []() dd/mm/aaaa
+- []() dd/mm/aaaa
+- []() dd/mm/aaaa
+- []() dd/mm/aaaa
+- []() dd/mm/aaaa
