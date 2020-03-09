@@ -6,5 +6,5 @@
 - [Befrienders - Suicide Statistics](https://www.befrienders.org/suicide-statistics)
 - [Estudo da série histórica de mortalidade por suicídio no Espírito Santo (de 1980 a 2006)](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0047-20852011000300001) dd/01/2011
 - [Our World in Data: Suicide](https://ourworldindata.org/suicide) dd/mm/2020
-- []() dd/mm/aaaa
+- [Data Can Help You: How Technologies Fight Mental Health Issues](https://hackernoon.com/data-can-help-you-how-technologies-fight-mental-health-issues-373i36z4) 11/02/2020
 - []() dd/mm/aaaa
