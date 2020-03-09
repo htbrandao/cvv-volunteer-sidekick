@@ -7,4 +7,18 @@
 - [Estudo da série histórica de mortalidade por suicídio no Espírito Santo (de 1980 a 2006)](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0047-20852011000300001) dd/01/2011
 - [Our World in Data: Suicide](https://ourworldindata.org/suicide) dd/mm/2020
 - [Data Can Help You: How Technologies Fight Mental Health Issues](https://hackernoon.com/data-can-help-you-how-technologies-fight-mental-health-issues-373i36z4) 11/02/2020
-- []() dd/mm/aaaa
+- [CrossCheck: Integrating self-report, behavioral sensing, and smartphone use to identify digital indicators of psychotic relapse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5593755/) 01/09/2017
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- - []() dd/mm/aaaa
+- 
